@@ -1,4 +1,4 @@
-const astral = require('astral.js@6.0.4')
+const astral = require('astral.js@6.1.5')
 const db = require('astral.ts')
 const key = require('astral.js@Key.json')
 const config = require('config.json')
